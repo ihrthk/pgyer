@@ -1,0 +1,21 @@
+//apply是Project的一个方法，plugin是一个参数，maven是一个值
+//用来部署到本地maven仓库
+apply plugin: 'maven'
+//用来编译Groovy代码(因为我的插件是用groovy写的)
+apply plugin: 'groovy'
+
+//dependencies是Project的一个方法，而{}里面是一个闭包，相当于匿名方法块。
+dependencies {
+    //添加Gradle Api依赖
+    compile gradleApi()
+    //添加本地groovy依赖
+    compile localGroovy()
+}
+
+//这三个字段都要加，用来表示安装到本地maven仓库的位置。
+group = 'me.zhangls'
+//网上有这么写的，也有效果，主要是可以改变项目名称，但是在文档中没有找到相关说明。
+//也可以不写，那么会取文件夹的名称，来作为这个值。
+archivesBaseName = 'pgyer'
+//版本号
+version = '0.1'

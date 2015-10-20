@@ -1,0 +1,13 @@
+//配置运行脚本所需要的环境
+buildscript {
+    //配置仓库
+    repositories {
+        mavenLocal()
+    }
+    //制定要依赖仓库里具体插件
+    dependencies {
+        classpath 'me.zhangls:pgyer:0.1'
+    }
+}
+//应用这个插件
+apply plugin: 'me.zhangls.pgyer'
