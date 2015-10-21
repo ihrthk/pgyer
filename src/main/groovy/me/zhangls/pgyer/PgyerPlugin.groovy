@@ -5,8 +5,7 @@ import org.gradle.api.Project
 
 public class PgyerPlugin implements Plugin<Project> {
     void apply(Project project) {
-         project.task('hello') << {
-            println "Hello World"
-        }
+        project.task("pgyer", type: PgyerTask)
+        project.extensions.create("pgyer", Pgyer)
     }
 }

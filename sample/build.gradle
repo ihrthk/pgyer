@@ -1,13 +1,18 @@
-//配置运行脚本所需要的环境
 buildscript {
-    //配置仓库
     repositories {
         mavenLocal()
+        jcenter{
+            url 'http://jcenter.bintray.com'
+        }
     }
-    //制定要依赖仓库里具体插件
     dependencies {
         classpath 'me.zhangls:pgyer:0.1'
     }
 }
-//应用这个插件
 apply plugin: 'me.zhangls.pgyer'
+pgyer {
+    uKey 'ec5faa5695058bb6ac5ae13026d22909'
+    _api_key '1f91476238fd805b06594df3320a95da'
+    file file('leying-release.apk')
+    password '@c20160101'
+}

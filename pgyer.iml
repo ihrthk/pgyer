@@ -16,6 +16,8 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Gradle: com.squareup.okhttp:okhttp:2.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.squareup.okio:okio:1.2.0" level="project" />
     <orderEntry type="module-library" exported="">
       <library name="Gradle: gradle-core-2.4">
         <CLASSES>
