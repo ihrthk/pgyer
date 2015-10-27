@@ -1,3 +1,13 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+}
+
+plugins {
+    id 'nu.studer.plugindev' version '1.0.4'
+}
+
 apply plugin: 'maven'
 apply plugin: 'groovy'
 
@@ -16,3 +26,32 @@ dependencies {
 group = 'me.zhangls'
 archivesBaseName = 'pgyer'
 version = '0.1'
+
+task javadocsJar(type: Jar, dependsOn: javadoc) {
+    classifier = 'javadoc'
+    from javadoc.destinationDir
+}
+
+artifacts {
+    archives sourcesJar
+    archives javadocsJar
+}
+
+plugindev {
+    pluginImplementationClass 'me.zhangls.pgyer.PgyerPlugin'
+    pluginDescription 'Gradle plugin for pgyer.com upload'
+    pluginLicenses 'MIT'
+    pluginTags 'gradle', 'plugin', 'pgyer', 'upload'
+    authorId 'ihrthk'
+    authorName 'zhangls'
+    authorEmail 'ihrthk@gmail.com'
+    projectUrl 'https://github.com/ihrthk/pgyer'
+    projectInceptionYear '2015'
+    done()
+}
+
+bintray {
+    user = 'ihrthk'
+    key = ''
+    pkg.repo = 'gradle-plugins'
+}
