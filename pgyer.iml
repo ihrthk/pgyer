@@ -17,7 +17,7 @@
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" scope="RUNTIME">
-      <library name="Gradle: D__workspace_pgyer_build_plugindev_generated_resources_main">
+      <library name="Gradle: D__workspace_pgyer_build_plugindev_generated_resources_main:">
         <CLASSES>
           <root url="file://$MODULE_DIR$/build/plugindev/generated-resources/main" />
         </CLASSES>
@@ -25,23 +25,54 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="Gradle: com.squareup.okhttp:okhttp:2.5.0" level="project" />
-    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.6.0" level="project" />
     <orderEntry type="module-library">
-      <library name="Gradle: gradle-core-2.7">
+      <library name="Gradle: com.squareup.okhttp:okhttp:2.5.0">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-core-2.7.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/core" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/cd4ddf1fb4ad84ea5d67ee3b386aea25f02ea096/okhttp-2.5.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: cn.edu.zafu:coreprogress:0.0.3:aar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.edu.zafu/coreprogress/0.0.3/6d342cf97118c70ce89f59447a8ac2e8bb129116/coreprogress-0.0.3.aar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.edu.zafu/coreprogress/0.0.3/f1a5e6090a9010b9fd951f716db5bdc7468e5c3f/coreprogress-0.0.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: com.squareup.okio:okio:1.6.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/fb6ec0fbaa0229088b0d3dfe3b1f9d24add3e775/okio-1.6.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: gradle-core-2.7">
+        <CLASSES>
+          <root url="jar://D:/gradle-2.7/lib/gradle-core-2.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/gradle-2.7/src/core" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: groovy-all-2.3.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/groovy-all-2.3.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/groovy-all-2.3.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -50,7 +81,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: asm-all-5.0.3">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/asm-all-5.0.3.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/asm-all-5.0.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -59,7 +90,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: ant-1.9.3">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/ant-1.9.3.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/ant-1.9.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -68,7 +99,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: commons-collections-3.2.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/commons-collections-3.2.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/commons-collections-3.2.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -77,7 +108,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: commons-io-1.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/commons-io-1.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/commons-io-1.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -86,7 +117,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: commons-lang-2.6">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/commons-lang-2.6.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/commons-lang-2.6.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -95,7 +126,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: guava-jdk5-17.0">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/guava-jdk5-17.0.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/guava-jdk5-17.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -104,7 +135,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jcip-annotations-1.0">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/jcip-annotations-1.0.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/jcip-annotations-1.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -113,7 +144,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jul-to-slf4j-1.7.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/jul-to-slf4j-1.7.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/jul-to-slf4j-1.7.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -122,7 +153,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jarjar-1.3">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/jarjar-1.3.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/jarjar-1.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -131,7 +162,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: javax.inject-1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/javax.inject-1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/javax.inject-1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -140,7 +171,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: slf4j-api-1.7.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/slf4j-api-1.7.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/slf4j-api-1.7.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -149,7 +180,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: log4j-over-slf4j-1.7.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/log4j-over-slf4j-1.7.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/log4j-over-slf4j-1.7.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -158,7 +189,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jcl-over-slf4j-1.7.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/jcl-over-slf4j-1.7.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/jcl-over-slf4j-1.7.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -167,7 +198,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: ant-launcher-1.9.3">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/ant-launcher-1.9.3.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/ant-launcher-1.9.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -176,7 +207,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-docs-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-docs-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-docs-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -185,73 +216,73 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-model-core-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-model-core-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-model-core-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/model-core" />
+          <root url="file://D:/gradle-2.7/src/model-core" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-base-services-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-base-services-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-base-services-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/base-services" />
+          <root url="file://D:/gradle-2.7/src/base-services" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-base-services-groovy-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-base-services-groovy-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-base-services-groovy-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/base-services-groovy" />
+          <root url="file://D:/gradle-2.7/src/base-services-groovy" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-model-groovy-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-model-groovy-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-model-groovy-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/model-groovy" />
+          <root url="file://D:/gradle-2.7/src/model-groovy" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-cli-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-cli-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-cli-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/cli" />
+          <root url="file://D:/gradle-2.7/src/cli" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-native-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-native-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-native-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/native" />
+          <root url="file://D:/gradle-2.7/src/native" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: jna-3.2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/jna-3.2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/jna-3.2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -260,7 +291,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -269,7 +300,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jansi-1.2.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/jansi-1.2.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/jansi-1.2.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -278,7 +309,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-osx-i386-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-osx-i386-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-osx-i386-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -287,7 +318,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-osx-amd64-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-osx-amd64-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-osx-amd64-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -296,7 +327,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-linux-amd64-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-linux-amd64-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-linux-amd64-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -305,7 +336,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-linux-i386-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-linux-i386-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-linux-i386-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -314,7 +345,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-windows-amd64-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-windows-amd64-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-windows-amd64-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -323,7 +354,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-windows-i386-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-windows-i386-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-windows-i386-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -332,7 +363,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-freebsd-i386-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-freebsd-i386-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-freebsd-i386-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -341,7 +372,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: native-platform-freebsd-amd64-0.10">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/native-platform-freebsd-amd64-0.10.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/native-platform-freebsd-amd64-0.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -350,18 +381,18 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-messaging-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-messaging-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-messaging-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/messaging" />
+          <root url="file://D:/gradle-2.7/src/messaging" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: kryo-2.20">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/kryo-2.20.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/kryo-2.20.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -370,7 +401,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: reflectasm-1.07-shaded">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/reflectasm-1.07-shaded.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/reflectasm-1.07-shaded.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -379,7 +410,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: minlog-1.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/minlog-1.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/minlog-1.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -388,7 +419,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: objenesis-1.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/objenesis-1.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/objenesis-1.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -397,29 +428,29 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-resources-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-resources-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-resources-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/resources" />
+          <root url="file://D:/gradle-2.7/src/resources" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-dependency-management-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-dependency-management-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-dependency-management-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/dependency-management" />
+          <root url="file://D:/gradle-2.7/src/dependency-management" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: ivy-2.2.0">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/ivy-2.2.0.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/ivy-2.2.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -428,7 +459,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: gson-2.2.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gson-2.2.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gson-2.2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -437,7 +468,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-core-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-core-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-core-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -446,7 +477,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: xbean-reflect-3.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/xbean-reflect-3.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/xbean-reflect-3.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -455,7 +486,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: bcprov-jdk15on-1.51">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/bcprov-jdk15on-1.51.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/bcprov-jdk15on-1.51.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -464,7 +495,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jsch-0.1.51">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jsch-0.1.51.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jsch-0.1.51.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -473,7 +504,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: plexus-sec-dispatcher-1.3">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/plexus-sec-dispatcher-1.3.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/plexus-sec-dispatcher-1.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -482,7 +513,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: aether-impl-1.13.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/aether-impl-1.13.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/aether-impl-1.13.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -491,7 +522,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: aether-util-1.13.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/aether-util-1.13.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/aether-util-1.13.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -500,7 +531,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: aether-spi-1.13.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/aether-spi-1.13.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/aether-spi-1.13.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -509,7 +540,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: wagon-provider-api-2.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/wagon-provider-api-2.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/wagon-provider-api-2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -518,7 +549,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-aether-provider-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-aether-provider-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-aether-provider-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -527,7 +558,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-repository-metadata-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-repository-metadata-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-repository-metadata-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -536,7 +567,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: plexus-classworlds-2.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/plexus-classworlds-2.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/plexus-classworlds-2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -545,7 +576,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: aether-connector-wagon-1.13.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/aether-connector-wagon-1.13.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/aether-connector-wagon-1.13.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -554,7 +585,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-model-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-model-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-model-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -563,7 +594,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: wagon-http-2.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/wagon-http-2.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/wagon-http-2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -572,7 +603,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-settings-builder-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-settings-builder-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-settings-builder-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -581,7 +612,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-compat-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-compat-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-compat-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -590,7 +621,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: plexus-component-annotations-1.5.5">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/plexus-component-annotations-1.5.5.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/plexus-component-annotations-1.5.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -599,7 +630,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-plugin-api-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-plugin-api-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-plugin-api-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -608,7 +639,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: plexus-container-default-1.5.5">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/plexus-container-default-1.5.5.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/plexus-container-default-1.5.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -617,7 +648,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-artifact-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-artifact-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-artifact-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -626,7 +657,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: plexus-interpolation-1.14">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/plexus-interpolation-1.14.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/plexus-interpolation-1.14.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -635,7 +666,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-settings-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-settings-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-settings-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -644,7 +675,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: aether-api-1.13.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/aether-api-1.13.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/aether-api-1.13.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -653,7 +684,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: plexus-cipher-1.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/plexus-cipher-1.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/plexus-cipher-1.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -662,7 +693,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: wagon-file-2.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/wagon-file-2.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/wagon-file-2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -671,7 +702,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: maven-model-builder-3.0.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/maven-model-builder-3.0.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/maven-model-builder-3.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -680,7 +711,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: plexus-utils-2.0.6">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/plexus-utils-2.0.6.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/plexus-utils-2.0.6.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -689,7 +720,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: wagon-http-shared4-2.4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/wagon-http-shared4-2.4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/wagon-http-shared4-2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -698,29 +729,29 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-plugin-use-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-plugin-use-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-plugin-use-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/plugin-use" />
+          <root url="file://D:/gradle-2.7/src/plugin-use" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-resources-http-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-resources-http-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-resources-http-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/resources-http" />
+          <root url="file://D:/gradle-2.7/src/resources-http" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: httpclient-4.2.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/httpclient-4.2.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/httpclient-4.2.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -729,7 +760,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: nekohtml-1.9.14">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/nekohtml-1.9.14.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/nekohtml-1.9.14.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -738,7 +769,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: commons-codec-1.6">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/commons-codec-1.6.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/commons-codec-1.6.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -747,7 +778,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: httpcore-4.2.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/httpcore-4.2.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/httpcore-4.2.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -756,7 +787,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jcifs-1.3.17">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jcifs-1.3.17.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jcifs-1.3.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -765,7 +796,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: xml-apis-1.3.04">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/xml-apis-1.3.04.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/xml-apis-1.3.04.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -774,7 +805,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: xercesImpl-2.9.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/xercesImpl-2.9.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/xercesImpl-2.9.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -783,40 +814,40 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-tooling-api-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-tooling-api-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-tooling-api-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/tooling-api" />
+          <root url="file://D:/gradle-2.7/src/tooling-api" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-wrapper-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/gradle-wrapper-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/gradle-wrapper-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/wrapper" />
+          <root url="file://D:/gradle-2.7/src/wrapper" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-plugins-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-plugins-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-plugins-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/plugins" />
+          <root url="file://D:/gradle-2.7/src/plugins" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: junit-4.12">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/junit-4.12.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/junit-4.12.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -825,7 +856,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: testng-6.3.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/testng-6.3.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/testng-6.3.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -834,7 +865,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: commons-cli-1.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/commons-cli-1.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/commons-cli-1.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -843,7 +874,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: bsh-2.0b4">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/bsh-2.0b4.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/bsh-2.0b4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -852,7 +883,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jcommander-1.12">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jcommander-1.12.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jcommander-1.12.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -861,7 +892,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: snakeyaml-1.6">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/snakeyaml-1.6.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/snakeyaml-1.6.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -870,7 +901,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: hamcrest-core-1.3">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/hamcrest-core-1.3.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/hamcrest-core-1.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -879,29 +910,29 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-code-quality-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-code-quality-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-code-quality-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/code-quality" />
+          <root url="file://D:/gradle-2.7/src/code-quality" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-jetty-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-jetty-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-jetty-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/jetty" />
+          <root url="file://D:/gradle-2.7/src/jetty" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: jetty-6.1.25">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jetty-6.1.25.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jetty-6.1.25.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -910,7 +941,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jetty-util-6.1.25">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jetty-util-6.1.25.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jetty-util-6.1.25.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -919,7 +950,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: servlet-api-2.5-20081211">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/servlet-api-2.5-20081211.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/servlet-api-2.5-20081211.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -928,7 +959,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jetty-plus-6.1.25">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jetty-plus-6.1.25.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jetty-plus-6.1.25.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -937,7 +968,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jsp-2.1-6.1.14">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jsp-2.1-6.1.14.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jsp-2.1-6.1.14.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -946,7 +977,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jetty-annotations-6.1.25">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jetty-annotations-6.1.25.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jetty-annotations-6.1.25.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -955,7 +986,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: geronimo-annotation_1.0_spec-1.0">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/geronimo-annotation_1.0_spec-1.0.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/geronimo-annotation_1.0_spec-1.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -964,7 +995,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jetty-naming-6.1.25">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jetty-naming-6.1.25.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jetty-naming-6.1.25.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -973,7 +1004,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: core-3.1.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/core-3.1.1.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/core-3.1.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -982,7 +1013,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jsp-api-2.1-6.1.14">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jsp-api-2.1-6.1.14.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jsp-api-2.1-6.1.14.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -991,29 +1022,29 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-antlr-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-antlr-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-antlr-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/antlr" />
+          <root url="file://D:/gradle-2.7/src/antlr" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-osgi-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-osgi-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-osgi-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/osgi" />
+          <root url="file://D:/gradle-2.7/src/osgi" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: bndlib-2.1.0">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/bndlib-2.1.0.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/bndlib-2.1.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1022,18 +1053,18 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-maven-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-maven-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-maven-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/maven" />
+          <root url="file://D:/gradle-2.7/src/maven" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: pmaven-common-0.8-20100325">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/pmaven-common-0.8-20100325.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/pmaven-common-0.8-20100325.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1042,7 +1073,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: pmaven-groovy-0.8-20100325">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/pmaven-groovy-0.8-20100325.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/pmaven-groovy-0.8-20100325.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1051,51 +1082,51 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-ide-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-ide-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-ide-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/ide" />
+          <root url="file://D:/gradle-2.7/src/ide" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-announce-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-announce-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-announce-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/announce" />
+          <root url="file://D:/gradle-2.7/src/announce" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-scala-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-scala-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-scala-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/scala" />
+          <root url="file://D:/gradle-2.7/src/scala" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-sonar-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-sonar-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-sonar-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/sonar" />
+          <root url="file://D:/gradle-2.7/src/sonar" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: sonar-batch-bootstrapper-2.9">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/sonar-batch-bootstrapper-2.9.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/sonar-batch-bootstrapper-2.9.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1104,18 +1135,18 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-signing-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-signing-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-signing-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/signing" />
+          <root url="file://D:/gradle-2.7/src/signing" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: bcpg-jdk15on-1.51">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/bcpg-jdk15on-1.51.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/bcpg-jdk15on-1.51.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1124,29 +1155,29 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-ear-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-ear-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-ear-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/ear" />
+          <root url="file://D:/gradle-2.7/src/ear" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-javascript-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-javascript-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-javascript-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/javascript" />
+          <root url="file://D:/gradle-2.7/src/javascript" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: rhino-1.7R3">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/rhino-1.7R3.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/rhino-1.7R3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1155,7 +1186,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: simple-4.1.21">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/simple-4.1.21.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/simple-4.1.21.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1164,40 +1195,40 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-build-comparison-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-build-comparison-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-build-comparison-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/build-comparison" />
+          <root url="file://D:/gradle-2.7/src/build-comparison" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-diagnostics-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-diagnostics-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-diagnostics-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/diagnostics" />
+          <root url="file://D:/gradle-2.7/src/diagnostics" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-reporting-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-reporting-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-reporting-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/reporting" />
+          <root url="file://D:/gradle-2.7/src/reporting" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: jatl-0.2.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jatl-0.2.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jatl-0.2.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1206,205 +1237,205 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-publish-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-publish-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-publish-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/publish" />
+          <root url="file://D:/gradle-2.7/src/publish" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-ivy-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-ivy-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-ivy-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/ivy" />
+          <root url="file://D:/gradle-2.7/src/ivy" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-jacoco-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-jacoco-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-jacoco-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/jacoco" />
+          <root url="file://D:/gradle-2.7/src/jacoco" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-build-init-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-build-init-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-build-init-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/build-init" />
+          <root url="file://D:/gradle-2.7/src/build-init" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-platform-base-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-platform-base-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-platform-base-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/platform-base" />
+          <root url="file://D:/gradle-2.7/src/platform-base" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-platform-jvm-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-platform-jvm-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-platform-jvm-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/platform-jvm" />
+          <root url="file://D:/gradle-2.7/src/platform-jvm" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-language-jvm-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-language-jvm-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-language-jvm-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/language-jvm" />
+          <root url="file://D:/gradle-2.7/src/language-jvm" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-language-java-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-language-java-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-language-java-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/language-java" />
+          <root url="file://D:/gradle-2.7/src/language-java" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-language-groovy-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-language-groovy-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-language-groovy-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/language-groovy" />
+          <root url="file://D:/gradle-2.7/src/language-groovy" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-language-scala-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-language-scala-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-language-scala-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/language-scala" />
+          <root url="file://D:/gradle-2.7/src/language-scala" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-platform-native-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-platform-native-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-platform-native-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/platform-native" />
+          <root url="file://D:/gradle-2.7/src/platform-native" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-platform-play-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-platform-play-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-platform-play-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/platform-play" />
+          <root url="file://D:/gradle-2.7/src/platform-play" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-language-native-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-language-native-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-language-native-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/language-native" />
+          <root url="file://D:/gradle-2.7/src/language-native" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-ide-native-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-ide-native-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-ide-native-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/ide-native" />
+          <root url="file://D:/gradle-2.7/src/ide-native" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-testing-native-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-testing-native-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-testing-native-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/testing-native" />
+          <root url="file://D:/gradle-2.7/src/testing-native" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-plugin-development-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-plugin-development-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-plugin-development-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/plugin-development" />
+          <root url="file://D:/gradle-2.7/src/plugin-development" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-resources-sftp-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-resources-sftp-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-resources-sftp-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/resources-sftp" />
+          <root url="file://D:/gradle-2.7/src/resources-sftp" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: gradle-resources-s3-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-resources-s3-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-resources-s3-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/resources-s3" />
+          <root url="file://D:/gradle-2.7/src/resources-s3" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="Gradle: aws-java-sdk-s3-1.9.19">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/aws-java-sdk-s3-1.9.19.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/aws-java-sdk-s3-1.9.19.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1413,7 +1444,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: aws-java-sdk-kms-1.9.19">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/aws-java-sdk-kms-1.9.19.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/aws-java-sdk-kms-1.9.19.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1422,7 +1453,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: aws-java-sdk-core-1.9.19">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/aws-java-sdk-core-1.9.19.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/aws-java-sdk-core-1.9.19.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1431,7 +1462,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jackson-core-2.3.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jackson-core-2.3.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jackson-core-2.3.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1440,7 +1471,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jackson-annotations-2.3.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jackson-annotations-2.3.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jackson-annotations-2.3.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1449,7 +1480,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: jackson-databind-2.3.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/jackson-databind-2.3.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/jackson-databind-2.3.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1458,7 +1489,7 @@
     <orderEntry type="module-library">
       <library name="Gradle: joda-time-2.8.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/joda-time-2.8.2.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/joda-time-2.8.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -1467,11 +1498,11 @@
     <orderEntry type="module-library">
       <library name="Gradle: gradle-tooling-api-builders-2.7">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/lib/plugins/gradle-tooling-api-builders-2.7.jar!/" />
+          <root url="jar://D:/gradle-2.7/lib/plugins/gradle-tooling-api-builders-2.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.7-all/5yeh1kpf8yjgij8gv3fq8cmu7/gradle-2.7/src/tooling-api-builders" />
+          <root url="file://D:/gradle-2.7/src/tooling-api-builders" />
         </SOURCES>
       </library>
     </orderEntry>
