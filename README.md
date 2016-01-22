@@ -2,16 +2,21 @@
 
 This is the Pugongying plugin for the Gradle. This plugin, you can use the Pugongying API from Gradle easily.
 
+## Configuration
+```java
+plugins {
+  id "me.zhangls.pgyer" version "0.0.1"
+}
+pgyer {
+    uKey 'ec5faa5695058bb6ac5ae13026d22909'
+    _api_key '1f91476238fd805b06594df3320a95da'
+    file file('leying-release.apk')
+    password '@c20160101'
+}
+```
 
+## Explain
 
-
-Reference:
-https://github.com/dodocat/pgyer
-http://www.pgyer.com/doc/api#uploadApp
-
-pgyer - Gradle plugin for pgyer.com upload
-See https://github.com/ihrthk/pgyer for more information.
-Available configuration options and default values:
 //用户Key 点击获取uKey
 String uKey
 //API Key 点击获取API Key
@@ -26,14 +31,12 @@ String isPublishToPublic
 String password
 //(选填) 版本更新描述，请传空字符串，或不传。
 String updateDescription
-```java
-plugins {
-  id "me.zhangls.pgyer" version "0.0.1"
-}
-pgyer {
-    uKey 'ec5faa5695058bb6ac5ae13026d22909'
-    _api_key '1f91476238fd805b06594df3320a95da'
-    file file('leying-release.apk')
-    password '@c20160101'
-}
+
+## Run
 ```
+gradle pgyer
+```
+
+Reference:
+https://github.com/dodocat/pgyer
+http://www.pgyer.com/doc/api#uploadApp
