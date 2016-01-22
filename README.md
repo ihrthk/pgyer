@@ -2,8 +2,9 @@
 
 This is the Pugongying plugin for the Gradle. This plugin, you can use the Pugongying API from Gradle easily.
 
+
 ## Configuration
-```java
+```
 plugins {
   id "me.zhangls.pgyer" version "0.0.1"
 }
@@ -16,7 +17,7 @@ pgyer {
 ```
 
 ## Explain
-
+```
 //用户Key 点击获取uKey
 String uKey
 //API Key 点击获取API Key
@@ -31,6 +32,7 @@ String isPublishToPublic
 String password
 //(选填) 版本更新描述，请传空字符串，或不传。
 String updateDescription
+```
 
 ## Run
 ```
