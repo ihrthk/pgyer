@@ -27,7 +27,7 @@ dependencies {
 
 group = 'me.zhangls'
 archivesBaseName = 'pgyer'
-version = '0.0.1'
+version = '0.1'
 
 pluginBundle {
     website = 'https://github.com/ihrthk/pgyer'
@@ -39,7 +39,7 @@ pluginBundle {
             id = 'me.zhangls.pgyer'
             displayName = 'Gradle Pgyer plugin'
             description = 'Gradle plugin for pgyer.com upload'
-            version = '0.0.1'
+            version = '0.1'
             tags = ['gradle', 'plugin', 'pgyer', 'upload']
         }
     }
