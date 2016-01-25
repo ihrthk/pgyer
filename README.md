@@ -6,7 +6,7 @@ This is the Pugongying plugin for the Gradle. This plugin, you can use the Pugon
 ## Configuration
 ```
 plugins {
-  id "me.zhangls.pgyer" version "0.0.1"
+  id "me.zhangls.pgyer" version "0.1"
 }
 pgyer {
     uKey 'ec5faa5695058bb6ac5ae13026d22909'
