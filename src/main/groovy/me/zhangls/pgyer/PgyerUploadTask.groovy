@@ -7,7 +7,7 @@ import org.gradle.api.tasks.TaskAction
 
 import java.util.concurrent.TimeUnit
 
-class PgyerTask extends DefaultTask {
+public class PgyerUploadTask extends DefaultTask {
 
     {
         group = 'pgyer'
