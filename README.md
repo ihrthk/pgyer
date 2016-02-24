@@ -6,14 +6,27 @@ This is the Pugongying plugin for the Gradle. This plugin, you can use the Pugon
 ## Configuration
 ```
 plugins {
-  id "me.zhangls.pgyer" version "0.1"
+  id "me.zhangls.pgyer" version "0.2"
 }
 pgyer {
     uKey 'ec5faa5695058bb6ac5ae13026d22909'
     _api_key '1f91476238fd805b06594df3320a95da'
     file file('leying-release.apk')
-    password '@c20160101'
+    password '!@c20160101'
+
+    aId '32a42e14f275cd9235e6551a0bb9da75'
+    packageName 'com.duohappy.leying'
+    lanuchActivity 'com.duohappy.leying.ui.activity.LeyingLaunchActivity'
 }
+
+task pgyerGuest(dependsOn: ['pgyerDownload', 'pgyerUninstall', 'pgyerInstall', 'pgyerRun'])
+pgyerInstall.mustRunAfter pgyerDownload
+pgyerUninstall.mustRunAfter pgyerDownload
+pgyerInstall.mustRunAfter pgyerUninstall
+pgyerRun.mustRunAfter pgyerUninstall
+
+task pgyerMaster(dependsOn: ['pgyerUpload', 'pgyerGuest'])
+pgyerGuest.mustRunAfter pgyerUpload
 ```
 
 ## Explain
