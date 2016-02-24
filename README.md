@@ -4,7 +4,7 @@ This is the Pugongying plugin for the Gradle. This plugin, you can use the Pugon
 
 
 ## Configuration
-```
+``` java
 plugins {
   id "me.zhangls.pgyer" version "0.2"
 }
