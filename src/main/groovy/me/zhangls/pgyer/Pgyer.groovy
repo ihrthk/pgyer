@@ -19,5 +19,9 @@ public class Pgyer {
     String password
     //(选填) 版本更新描述，请传空字符串，或不传。
     String updateDescription
+
+    String aId;
+    String packageName;
+    String lanuchActivity;
 }
 
