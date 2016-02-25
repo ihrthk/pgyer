@@ -56,7 +56,16 @@ String lanuchActivity
 
 ## Run
 ```
-gradle pgyer
+Pgyer tasks
+-----------
+pgyerDownload - 下载APK
+pgyerInstall - 安装APK
+pgyerRun - 运行APK
+pgyerUninstall - 卸载APK
+pgyerUpload - 上传APK
+
+pgyerMaster
+pgyerGuest
 ```
 
 
