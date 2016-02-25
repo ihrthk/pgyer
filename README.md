@@ -45,6 +45,13 @@ String isPublishToPublic
 String password
 //(选填) 版本更新描述，请传空字符串，或不传。
 String updateDescription
+
+//应用ID(pgyer作为唯一标识，包名对应)
+String aId
+//包名(运行APK时要用)
+String packageName
+//主界面(运行APK时要用)
+String lanuchActivity
 ```
 
 ## Run
