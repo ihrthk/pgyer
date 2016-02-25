@@ -54,10 +54,8 @@ String packageName
 String lanuchActivity
 ```
 
-## Run
+## Pgyer tasks
 ```
-Pgyer tasks
------------
 pgyerDownload - 下载APK
 pgyerInstall - 安装APK
 pgyerRun - 运行APK
@@ -67,7 +65,6 @@ pgyerUpload - 上传APK
 pgyerMaster
 pgyerGuest
 ```
-
 
 ## Reference
 - https://github.com/dodocat/pgyer
