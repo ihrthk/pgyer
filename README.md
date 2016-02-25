@@ -65,6 +65,8 @@ pgyerUpload - 上传APK
 pgyerMaster
 pgyerGuest
 ```
+## Dependences
+- adb
 
 ## Reference
 - https://github.com/dodocat/pgyer
