@@ -4,16 +4,29 @@ This is the Pugongying plugin for the Gradle. This plugin, you can use the Pugon
 
 
 ## Configuration
-```
+``` java
 plugins {
-  id "me.zhangls.pgyer" version "0.0.1"
+  id "me.zhangls.pgyer" version "0.2"
 }
 pgyer {
     uKey 'ec5faa5695058bb6ac5ae13026d22909'
     _api_key '1f91476238fd805b06594df3320a95da'
     file file('leying-release.apk')
-    password '@c20160101'
+    password '!@c20160101'
+
+    aId '32a42e14f275cd9235e6551a0bb9da75'
+    packageName 'com.duohappy.leying'
+    lanuchActivity 'com.duohappy.leying.ui.activity.LeyingLaunchActivity'
 }
+
+task pgyerGuest(dependsOn: ['pgyerDownload', 'pgyerUninstall', 'pgyerInstall', 'pgyerRun'])
+pgyerInstall.mustRunAfter pgyerDownload
+pgyerUninstall.mustRunAfter pgyerDownload
+pgyerInstall.mustRunAfter pgyerUninstall
+pgyerRun.mustRunAfter pgyerUninstall
+
+task pgyerMaster(dependsOn: ['pgyerUpload', 'pgyerGuest'])
+pgyerGuest.mustRunAfter pgyerUpload
 ```
 
 ## Explain
@@ -32,13 +45,28 @@ String isPublishToPublic
 String password
 //(选填) 版本更新描述，请传空字符串，或不传。
 String updateDescription
+
+//应用ID(pgyer作为唯一标识，包名对应)
+String aId
+//包名(运行APK时要用)
+String packageName
+//主界面(运行APK时要用)
+String lanuchActivity
 ```
 
-## Run
+## Pgyer tasks
 ```
-gradle pgyer
-```
+pgyerDownload - 下载APK
+pgyerInstall - 安装APK
+pgyerRun - 运行APK
+pgyerUninstall - 卸载APK
+pgyerUpload - 上传APK
 
+pgyerMaster
+pgyerGuest
+```
+## Dependences
+- adb
 
 ## Reference
 - https://github.com/dodocat/pgyer
