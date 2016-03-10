@@ -29,7 +29,10 @@ dependencies {
 
 group = 'me.zhangls'
 archivesBaseName = 'pgyer'
-version = '0.2'
+version = '0.2.2'
+
+sourceCompatibility = JavaVersion.VERSION_1_7
+targetCompatibility = JavaVersion.VERSION_1_7
 
 javadoc {
     options.encoding = 'UTF-8'
@@ -45,15 +48,13 @@ tasks.withType(GroovyCompile) {
 pluginBundle {
     website = 'https://github.com/ihrthk/pgyer'
     vcsUrl = 'https://github.com/ihrthk/pgyer'
-    description = 'Gradle plugin for pgyer.com upload'
+    description = 'More convenient use of pgyer'
+    tags = ['pgyer', 'upload', 'download']
 
     plugins {
         pgyerPlugin {
             id = 'me.zhangls.pgyer'
             displayName = 'Gradle Pgyer plugin'
-            description = 'More convenient use of pgyer'
-            version = '0.2'
-            tags = ['pgyer', 'upload', 'download']
         }
     }
 }
